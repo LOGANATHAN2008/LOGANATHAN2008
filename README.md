@@ -19,3 +19,11 @@ Passions:
   - Photo & Video Editing
   - Digital Creativity
 Mission: Build creative, smart & impactful digital content 💡🚀
+
+
+Let me know if you want:
+- Light/Dark mode toggle style
+- More animation/emoji effects
+- Section for GitHub stats or contributions
+
+Ready to export this as a `.md` file or help you upload to your GitHub repo?
