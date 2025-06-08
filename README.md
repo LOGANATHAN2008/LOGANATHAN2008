@@ -14,7 +14,7 @@ Name: Loganathan M
 From: Vellore, Tamil Nadu 🇮🇳
 Student: BCA @ DSU College, Bangalore 🎓
 Passions:
-  - Web & Mobile App Development
+  - Web  Mobile App Development
   - UI/UX Design
   - Photo & Video Editing
   - Digital Creativity
