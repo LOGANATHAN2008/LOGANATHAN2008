@@ -2,12 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Loganathan+%F0%9F%91%8B;Web+Mobile+Dev+from+Vellore!;Creative+Editor+%7C+Tech+Lover+%7C+DSU+Student" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=LOGANATHAN2008&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 ---
 
 ### 👨‍💻 About Me
